@@ -8,7 +8,7 @@ module SacsRuby
       include BasePost
 
       def endpoint_url
-        '/v1.9.0/shop/flights?mode=live'
+        '/v4.1.0/shop/flights?mode=live'
       end
     end
   end
